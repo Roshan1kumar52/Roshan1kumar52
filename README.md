@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep learning**
 
-- 👨‍💻 All of my projects are available at [github.com/Roshan1kumar52](github.com/Roshan1kumar52)
+- 👨‍💻 All of my projects are available at [github.com/Roshan1kumar52](https://github.com/Roshan1kumar52)
 
 - 💬 Ask me about **Python**
 
